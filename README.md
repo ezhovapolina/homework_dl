@@ -30,4 +30,4 @@ __bold__
   
   
 hse.ru 
-[My university](https://www.hse.ru "Мой университет")
+[My university](https://www.hse.ru/ "Мой университет")
